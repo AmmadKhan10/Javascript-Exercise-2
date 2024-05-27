@@ -1,0 +1,12 @@
+.Question1 input {
+    width: 5%;
+    height: 3vw;
+}
+.child1 {
+    display: flex;
+}
+.child1 p {
+    width: 20%;
+    height: 3vw;
+    border: 2px solid black;
+}
